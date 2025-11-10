@@ -1,2 +1,0 @@
-# adk-agents
-Agentic Agents
